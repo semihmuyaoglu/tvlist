@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="TV8.tr" status="timeout", TV 8 (1080p)
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+
+
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Undefined",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
 
@@ -14,3 +20,8 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/54?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/tv85.tr.png" group-title="Undefined",Tv8.5 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5390?checkedby:iptvcat.com
+
+
+
+
+
