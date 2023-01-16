@@ -11,8 +11,8 @@ https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:2 tvg-country="TR" tvg-logo="", Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:3 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/atv.tr.png",Atv HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4769?checkedby:iptvcat.net
+#EXTINF:3 tvg-id="StarTV" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x729whv
 
 #EXTINF:4 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
