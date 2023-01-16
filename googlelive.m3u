@@ -74,32 +74,5 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 
 
 
-#EXTINF:0, Movie Smart Action HD
-http://stariptv.org:8080/wael2021/123456/93543
-
-#EXTINF:0, beIN Movies Family HD
-http://stariptv.org:8080/wael2021/123456/93546
-
-#EXTINF:0, beIN Movies Premier HD
-http://stariptv.org:8080/wael2021/123456/93547
-
-#EXTINF:0, beIN Movies Premier 2 HD
-http://stariptv.org:8080/wael2021/123456/93548
-
-#EXTINF:0, beIN Movies Stars HD
-http://stariptv.org:8080/wael2021/123456/93549
-
-#EXTINF:0, beIN Movies Turk HD
-http://stariptv.org:8080/wael2021/123456/93550
-
-#EXTINF:0, beIN Series Drama HD
-http://stariptv.org:8080/wael2021/123456/93551
-
-#EXTINF:0, beIN Series Sci-Fi HD
-http://stariptv.org:8080/wael2021/123456/93552
-
-#EXTINF:0, beIN Series Vice HD
-http://stariptv.org:8080/wael2021/123456/93553
-
-#EXTINF:0, TURKAmax SALON 4 HD
-http://stariptv.org:8080/wael2021/123456/93531
+#EXTINF:-1 tvg-country="TR" tvg-logo="", TRT Çocuk
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7270
