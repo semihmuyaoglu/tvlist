@@ -1,22 +1,10 @@
 #EXTM3U
 
-
-
-
-
-
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
 
+#EXTINF:1 tvg-country="TR" tvg-logo="", ShowTV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:1 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png", AkilliTV
+#EXTINF:2 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png", AkilliTV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
-
-
-
-
-
-
-
-
-
