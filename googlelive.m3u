@@ -9,7 +9,7 @@ https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 
 
 #EXTINF:2 tvg-country="TR" tvg-logo="", Kanal D
-https://kanald.blutv.com/blutv_kanald_live/live.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:3 tvg-country="TR" tvg-logo="", ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
