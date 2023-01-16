@@ -13,7 +13,8 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9O3DHRB.png",Star
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x729whv
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
