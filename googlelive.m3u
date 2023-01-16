@@ -1,27 +1,30 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-country="TR" tvg-logo="", ShowTV
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://i.imgur.com/1l7SCCu.png", ShowTV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:1 tvg-country="TR" tvg-logo="", TRT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png", TRT 1
 https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 
-
-#EXTINF:2 tvg-country="TR" tvg-logo="", Kanal D
+#EXTINF:-1 tvg-logo="", Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:3 tvg-id="StarTV" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/homSiDa.png",Fox
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O3DHRB.png",Star
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x729whv
 
-#EXTINF:4 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png",360 TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="",TLC
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 
-
-
-
-#EXTINF:5 tvg-country="TR" tvg-logo="", Akıllı TV
+#EXTINF:-1 tvg-country="TR" tvg-logo="", Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 
 
