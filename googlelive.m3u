@@ -44,3 +44,158 @@ https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-logo="", Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+
+
+
+
+#EXTINF:-1,&flix HD (AirTel)
+http://103.157.249.122:5005/play/a05k/index.m3u8
+#EXTINF:-1,13 Ulica HD (Cyfra)
+http://103.157.249.122:5005/play/a00n/index.m3u8
+#EXTINF:-1,AMC (Cyfra)
+http://103.157.249.122:5005/play/a011/index.m3u8
+#EXTINF:-1,AXN HD (Cyfra)
+http://103.157.249.122:5005/play/a02a/index.m3u8
+#EXTINF:-1,AXN SPIN HD (Cyfra)
+http://103.157.249.122:5005/play/a00o/index.m3u8
+#EXTINF:-1,Amedia Premium HD (Telekarta)
+http://103.157.249.122:5005/play/a021/index.m3u8
+#EXTINF:-1,Animal Planet (Telekarta)
+http://103.157.249.122:5005/play/a01p/index.m3u8
+#EXTINF:-1,BBC Earth HD (Cyfra)
+http://103.157.249.122:5005/play/a00s/index.m3u8
+#EXTINF:-1,BBC First HD (Cyfra)
+http://103.157.249.122:5005/play/a00r/index.m3u8
+#EXTINF:-1,Bloomberg European TV
+http://103.157.249.122:5005/play/a012/index.m3u8
+#EXTINF:-1,CBS Europa HD (Cyfra)
+http://103.157.249.122:5005/play/a017/index.m3u8
+#EXTINF:-1,Cartoon Network (Telekarta)
+http://103.157.249.122:5005/play/a020/index.m3u8
+#EXTINF:-1,Cartoon Network HD (Cyfra)
+http://103.157.249.122:5005/play/a014/index.m3u8
+#EXTINF:-1,Colors Infinity HD (AirTel)
+http://103.157.249.122:5005/play/a05j/index.m3u8
+#EXTINF:-1,Comedy Central Extra (Cyfra)
+http://103.157.249.122:5005/play/a01e/index.m3u8
+#EXTINF:-1,Comedy Central HD (AirTel)
+http://103.157.249.122:5005/play/a054/index.m3u8
+#EXTINF:-1,Comedy Central HD (Cyfra)
+http://103.157.249.122:5005/play/a01d/index.m3u8
+#EXTINF:-1,DTX (Telekarta)
+http://103.157.249.122:5005/play/a01w/index.m3u8
+#EXTINF:-1,Discovery Channel (Telekarta)
+http://103.157.249.122:5005/play/a01o/index.m3u8
+#EXTINF:-1,Discovery HD World (AirTel)
+http://103.157.249.122:5005/play/a05c/index.m3u8
+#EXTINF:-1,Discovery Science (AirTel)
+http://103.157.249.122:5005/play/a05p/index.m3u8
+#EXTINF:-1,Discovery Science (Telekarta)
+http://103.157.249.122:5005/play/a01n/index.m3u8
+#EXTINF:-1,Discovery Turbo (AirTel)
+http://103.157.249.122:5005/play/a05q/index.m3u8
+#EXTINF:-1,Disney Channel HD (Cyfra)
+http://103.157.249.122:5005/play/a027/index.m3u8
+#EXTINF:-1,Disney Junior (AirTel)
+http://103.157.249.122:5005/play/a05s/index.m3u8
+#EXTINF:-1,Eurosport 1 HD (Cyfra)
+http://103.157.249.122:5005/play/a00m/index.m3u8
+#EXTINF:-1,Eurosport 2 HD (Cyfra)
+http://103.157.249.122:5005/play/a023/index.m3u8
+#EXTINF:-1,Extreme Sports HD (Cyfra)
+http://103.157.249.122:5005/play/a016/index.m3u8
+#EXTINF:-1,FOX HD (Cyfra)
+http://103.157.249.122:5005/play/a02b/index.m3u8
+#EXTINF:-1,Fightbox HD (Cyfra)
+http://103.157.249.122:5005/play/a00l/index.m3u8
+#EXTINF:-1,Fox Comedy HD (Cyfra)
+http://103.157.249.122:5005/play/a029/index.m3u8
+#EXTINF:-1,Fox Life HD (AirTel)
+http://103.157.249.122:5005/play/a05i/index.m3u8
+#EXTINF:-1,Golf Channel (Cyfra)
+http://103.157.249.122:5005/play/a00k/index.m3u8
+#EXTINF:-1,HBO HD (Cyfra)
+http://103.157.249.122:5005/play/a01a/index.m3u8
+#EXTINF:-1,HBO2 HD (Cyfra)
+http://103.157.249.122:5005/play/a00p/index.m3u8
+#EXTINF:-1,HBO3 HD (Cyfra)
+http://103.157.249.122:5005/play/a00q/index.m3u8
+#EXTINF:-1,History (Telekarta)
+http://103.157.249.122:5005/play/a01l/index.m3u8
+#EXTINF:-1,ID HD (Cyfra)
+http://103.157.249.122:5005/play/a00z/index.m3u8
+#EXTINF:-1,Investigation Discovery (Telekarta)
+http://103.157.249.122:5005/play/a01r/index.m3u8
+#EXTINF:-1,Investigation Discovery HD (AirTel)
+http://103.157.249.122:5005/play/a05b/index.m3u8
+#EXTINF:-1,Jim Jam (Cyfra)
+http://103.157.249.122:5005/play/a028/index.m3u8
+#EXTINF:-1,MNX HD (AirTel)
+http://103.157.249.122:5005/play/a05h/index.m3u8
+#EXTINF:-1,MTV Hits (Telekarta)
+http://103.157.249.122:5005/play/a01y/index.m3u8
+#EXTINF:-1,NGC HD (AirTel)
+http://103.157.249.122:5005/play/a056/index.m3u8
+#EXTINF:-1,Nat Geo People HD (Cyfra)
+http://103.157.249.122:5005/play/a015/index.m3u8
+#EXTINF:-1,Nick Jr. (Telekarta)
+http://103.157.249.122:5005/play/a01m/index.m3u8
+#EXTINF:-1,Nickelodeon (Telekarta)
+http://103.157.249.122:5005/play/a01s/index.m3u8
+#EXTINF:-1,Outdoor (Telekarta)
+http://103.157.249.122:5005/play/a01i/index.m3u8
+#EXTINF:-1,Paramount Channel (Telekarta)
+http://103.157.249.122:5005/play/a01t/index.m3u8
+#EXTINF:-1,Paramount Comedy (Telekarta)
+http://103.157.249.122:5005/play/a01v/index.m3u8
+#EXTINF:-1,Romedy Now HD (AirTel)
+http://103.157.249.122:5005/play/a05u/index.m3u8
+#EXTINF:-1,SONY PIX HD (AirTel)
+http://103.157.249.122:5005/play/a059/index.m3u8
+#EXTINF:-1,SciFi HD (Cyfra)
+http://103.157.249.122:5005/play/a00j/index.m3u8
+#EXTINF:-1,Sony SciFi (Telekarta)
+http://103.157.249.122:5005/play/a01g/index.m3u8
+#EXTINF:-1,Sony Shannel (Telekarta)
+http://103.157.249.122:5005/play/a01f/index.m3u8
+#EXTINF:-1,Sony Six HD (AirTel)
+http://103.157.249.122:5005/play/a058/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD (AirTel)
+http://103.157.249.122:5005/play/a057/index.m3u8
+#EXTINF:-1,Sony Ten 2 (AirTel)
+http://103.157.249.122:5005/play/a05m/index.m3u8
+#EXTINF:-1,Sony Ten 3 (AirTel)
+http://103.157.249.122:5005/play/a05n/index.m3u8
+#EXTINF:-1,Sony Turbo (Telekarta)
+http://103.157.249.122:5005/play/a01h/index.m3u8
+#EXTINF:-1,Spike (Telekarta)
+http://103.157.249.122:5005/play/a01u/index.m3u8
+#EXTINF:-1,Star Movies HD (AirTel)
+http://103.157.249.122:5005/play/a05e/index.m3u8
+#EXTINF:-1,Star Movies Select HD (AirTel)
+http://103.157.249.122:5005/play/a05t/index.m3u8
+#EXTINF:-1,Star Sports 1 HD (AirTel)
+http://103.157.249.122:5005/play/a052/index.m3u8
+#EXTINF:-1,Star Sports 2 HD (AirTel)
+http://103.157.249.122:5005/play/a051/index.m3u8
+#EXTINF:-1,Star Sports 3 (AirTel)
+http://103.157.249.122:5005/play/a05l/index.m3u8
+
+#EXTINF:-1,Star Sports Select 1 HD (AirTel)
+http://103.157.249.122:5005/play/a05a/index.m3u8
+
+#EXTINF:-1,Star Sports Select 2 HD (AirTel)
+http://103.157.249.122:5005/play/a053/index.m3u8
+
+#EXTINF:-1,Star World HD (AirTel)
+http://103.157.249.122:5005/play/a05d/index.m3u8
+
+#EXTINF:-1,Star World Premier HD (AirTel)
+http://103.157.249.122:5005/play/a05f/index.m3u8
+
+#EXTINF:-1,Sundance HD (Cyfra)
+http://103.157.249.122:5005/play/a022/index.m3u8
+
+
+#EXTINF:-1,TNT HD (Cyfra)
+http://103.157.249.122:5005/play/a013/index.m3u8
