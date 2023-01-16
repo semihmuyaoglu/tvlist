@@ -31,10 +31,11 @@ https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="", DMAX
+https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="", HaberGlobal
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-logo="", Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
