@@ -73,3 +73,6 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-logo="", DiscoveryID
 https://list.iptvcat.com/my_list/s/7380028c6e641775b54485c952972a07.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-logo="", Bein BoxOFFICE
+https://list.iptvcat.com/my_list/s/1b64ac632a3bfef3dba6813bb7d5d391.m3u8
