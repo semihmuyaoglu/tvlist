@@ -20,59 +20,64 @@ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",Star TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x729whv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="ULUSAL", Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png",TV 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKNwiDm.png", group-title="ULUSAL", TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png",360 TV
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png", group-title="ULUSAL", 360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="",TLC
+
+
+#EXTINF:-1 tvg-logo="", group-title="ULUSAL", TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png", Bloomberg HT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png",  group-title="HABER", Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png", CNN Turk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png", group-title="HABER",  CNN Turk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUFh3Qr.png" group-title="News",Habertürk TV
+#EXTINF:-1 tvg-country="TR" tvg-logo="https://i.imgur.com/sUFh3Qr.png" group-title="HABER", Habertürk TV
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="", DMAX
+#EXTINF:-1 tvg-logo="" tvg-country="TR"  group-title="ULUSAL",  DMAX
 https://dogus-live.daioncdn.net/dmax/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="", HaberGlobal
+#EXTINF:-1 tvg-logo="",tvg-country="TR", group-title="HABER",  HaberGlobal
 https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="", TV 100
+#EXTINF:-1 tvg-logo="",tvg-country="TR", group-title="HABER",  TV 100
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 
 
 
-#EXTINF:-1 tvg-country="TR" tvg-logo="", Akıllı TV
+#EXTINF:-1 tvg-country="TR", tvg-logo="", group-title="ULUSAL",  Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-logo="", DiscoveryID
+#EXTINF:-1 tvg-country="TR", tvg-logo="", group-title="BELGESEL",  DiscoveryID
 https://list.iptvcat.com/my_list/s/7380028c6e641775b54485c952972a07.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-logo="", Bein BoxOFFICE
+#EXTINF:-1 tvg-country="TR", tvg-logo="", group-title="SINEMA",  Bein BoxOFFICE
 https://list.iptvcat.com/my_list/s/1b64ac632a3bfef3dba6813bb7d5d391.m3u8
+
+
+
+
